@@ -5,7 +5,7 @@ const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 puppeteer.use(StealthPlugin());
 puppeteer.launch({ headless: false }).then(async (browser) => {
   console.log("started...");
-  const searchString = "dünya kupası tarihi";
+  const searchString = "yekta kopan";
   const url = `https://www.nadirkitap.com/kitapara_sonuc.php?kelime=${searchString}`;
   const page = await browser.newPage();
 
@@ -28,7 +28,7 @@ puppeteer.launch({ headless: false }).then(async (browser) => {
   for (let i = 1; i <= size; i++) {
     await page2.goto(`${url}&siralama=fiyatartan&bks=69&page=${i}`, {waitUntil: "networkidle2"
   });
-  await page.waitFor(1000);
+  //await page.waitFor(1000);
     let sahaf = await page2.evaluate(() => {
       let list = [
         "Sahaf Haziran",
@@ -158,9 +158,9 @@ puppeteer.launch({ headless: false }).then(async (browser) => {
         if (list.find((f) => f == sahaf) != undefined) {
           
           results.push({
-            seller: sahaf,
-            price: item.querySelector(".product-list-price").innerText,
             book: item.querySelector(".break-work").innerText,
+            seller: sahaf,
+            price: item.querySelector(".product-list-price").innerText
           });
         }
       });
@@ -170,10 +170,7 @@ puppeteer.launch({ headless: false }).then(async (browser) => {
       sahafList.push(s)
     });
   }
-  console.log(sahafList);
   fs.writeFileSync('./file.json',JSON.stringify(sahafList))
-  fs.writeFileSync('./file2.txt',JSON.stringify(sahafList))
-
 
   await browser.close();
 });

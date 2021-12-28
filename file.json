@@ -1,65 +1,565 @@
 [{
+    "book": "Sakın Oraya Gitme",
+    "seller": "Anka Kitabevi / Sahaf",
+    "price": "3,00 TL"
+}, {
+    "book": "AŞİYAN ''BOĞAZİÇİ ÜNİVERSİTESİ AYLIK EDEBİYAT DERGİSİ'' SAYI:16 - ARALIK 2013 - SÖYLEŞİ: YEKTA KOPAN, DOSYA:EDEBİYAT VE FEMİNİZM 1",
+    "seller": "Sahaf Haziran",
+    "price": "3,00 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME Ayracıyla Birlikte",
+    "seller": "Anka Kitabevi / Sahaf",
+    "price": "3,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Kırık Saat Kitap",
+    "price": "4,50 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Vintagebook",
+    "price": "4,75 TL"
+}, {
+    "book": "BİR DE BAKTIM YOKSUN",
+    "seller": "Sun-Nev",
+    "price": "5,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Mavi Kitabevi",
+    "price": "5,00 TL"
+}, {
+    "book": "OT Dergi - Sayı:9- Kasım 2013 Nejat İşler, Sırrı Süreyya Önder, Burak Aksak, Hakan Bıçakçı, Yekta Kopan...",
+    "seller": "Dergi Rafı",
+    "price": "5,00 TL"
+}, {
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ (2002 SAİT FAİK HİKAYE ARMAĞANI)",
+    "seller": "Mama Kitabevi",
+    "price": "5,00 TL"
+}, {
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ",
+    "seller": "Aydan Sahaf",
+    "price": "5,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Fikiradaş",
+    "price": "5,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Gargantua Sahaf",
+    "price": "5,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Aydan Sahaf",
+    "price": "5,00 TL"
+}, {
+    "book": "RADİKAL KİTAP ve TANITIM : SAYI :321 :52. KİTAP *Bir edebiyat yoldaşlığı .ayfer tunç. murt gülsoy ve yekta kopan yeni kitapları.",
+    "seller": "Renkli Kitap",
+    "price": "5,00 TL"
+}, {
+    "book": "BİR DE BAKTIM YOKSUN",
+    "seller": "Yıldız Sahaf",
+    "price": "5,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Sun-Nev",
+    "price": "5,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Anka Kitabevi / Sahaf",
+    "price": "5,00 TL"
+}, {
+    "book": "BİR DE BAKTIM YOKSUN",
+    "seller": "Aydan Sahaf",
+    "price": "6,00 TL"
+}, {
+    "book": "KARA KEDİNİN GÖLGESİ",
+    "seller": "İzmir Nehir Kitabevi",
+    "price": "6,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Neslim Sahaf",
+    "price": "6,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Aydan Sahaf",
+    "price": "6,00 TL"
+}, {
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ",
+    "seller": "Yabancı Kitabevi",
+    "price": "6,00 TL"
+}, {
+    "book": "İPEKLİ MENDİL / ÖYKÜMÜZDE NESNELER, KARAKTERLER, MEKANLAR VE DAHA FAZLASI",
+    "seller": "Roper Kitabevi",
+    "price": "6,30 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Mad Kitabevi",
+    "price": "6,90 TL"
+}, {
+    "book": "Bir de Baktım Yoksun",
+    "seller": "Fikiradaş",
+    "price": "7,00 TL"
+}, {
+    "book": "İki Şiirin Arasında",
+    "seller": "Arturcogallery Kitap",
+    "price": "7,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Yabancı Kitabevi",
+    "price": "7,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme",
+    "seller": "Gargantua Sahaf",
+    "price": "7,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Gargantua Sahaf",
+    "price": "7,00 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME",
+    "seller": "Pagos Sahaf ve Kitabevi",
+    "price": "7,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Kitapçıdede Sahaf",
+    "price": "7,00 TL"
+}, {
+    "book": "SIRADAN BİR GÜN",
+    "seller": "Anka Kitabevi / Sahaf",
+    "price": "7,00 TL"
+}, {
+    "book": "KARA KEDİNİN GÖLGESİ",
+    "seller": "Sahaf Cumhur",
+    "price": "7,50 TL"
+}, {
+    "book": "KARA KEDİNİN GÖLGESİ",
+    "seller": "Sahaf Cumhur",
+    "price": "7,50 TL"
+}, {
+    "book": "YEDİ DERSTE VİCDAN MUHASEBESİ",
+    "seller": "Mad Kitabevi",
+    "price": "7,92 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME",
+    "seller": "Aydan Sahaf",
+    "price": "8,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme",
+    "seller": "Fikiradaş",
+    "price": "8,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Fikiradaş",
+    "price": "8,00 TL"
+}, {
+    "book": "ÖZGÜR BALIK DVD FİLM ANİMASYON YEKTA KOPAN 'IN SESİYLE",
+    "seller": "Nemesis Koleksiyon",
+    "price": "8,00 TL"
+}, {
+    "book": "KARA KEDİNİN GÖLGESİ",
+    "seller": "Ada Yayınları",
+    "price": "8,00 TL"
+}, {
+    "book": "İKİ ŞİİRİN ARASINDA",
+    "seller": "Kedi Kitap",
+    "price": "8,00 TL"
+}, {
+    "book": "İPEKLİ MENDİL / ÖYKÜMÜZDE NESNELER, KARAKTERLER, MEKANLAR VE DAHA FAZLASI (ORİJİNAL AYRAÇLI)",
+    "seller": "İzmir Aydın Kitabevi",
+    "price": "8,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Parşömen Kitabevi / Sahaf",
+    "price": "8,00 TL"
+}, {
+    "book": "SARNIÇ ÖYKÜ - İki Aylık Öykü Dergisi - SAYI:21 / Ocak-Şubat 2015 - Yekta Kopan / İki Şiirin Arasında",
+    "seller": "Parşömen Kitabevi / Sahaf",
+    "price": "8,00 TL"
+}, {
+    "book": "Bir De Baktım Yoksun",
+    "seller": "Mama Kitabevi",
+    "price": "8,00 TL"
+}, {
+    "book": "Bir de Baktım Yoksun",
+    "seller": "Alper Kitabevi",
+    "price": "8,00 TL"
+}, {
+    "book": "BİRDE BAKTIM YOKSUN",
+    "seller": "Yabancı Kitabevi",
+    "price": "8,00 TL"
+}, {
+    "book": "KARBON KOPYA",
     "seller": "Park Sahaf",
-    "price": "6,30 TL",
-    "book": "Dünya Kupası Tarihi"
+    "price": "8,10 TL"
 }, {
-    "seller": "Ex libris",
-    "price": "20,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ 1930'DAN 1998'E"
+    "book": "İPEKLİ MENDİL",
+    "seller": "Sahaf Cumhur",
+    "price": "9,00 TL"
 }, {
-    "seller": "Ex libris",
-    "price": "25,00 TL",
-    "book": "2002 KORE / JAPONYA DÜNYA KUPASI REHBERİ / YILDIZ OYUNCUSU KADROSU VE KİMLİK KARTIYLA 32 TAKIM, TURNUVA FİKSTÜRÜ, KUPA TARİHİNDEN NOTLAR ..."
+    "book": "İki Şiirin Arasında",
+    "seller": "Yabancı Kitabevi",
+    "price": "9,00 TL"
 }, {
-    "seller": "Gökçe Kitap",
-    "price": "30,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ 1930 DAN BUĞÜNE"
+    "book": "Kediler Güzel Uyanır",
+    "seller": "Arturcogallery Kitap",
+    "price": "9,00 TL"
 }, {
-    "seller": "Gırtıllı",
-    "price": "40,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ"
+    "book": "İki Şiirin Arasında",
+    "seller": "Mad Kitabevi",
+    "price": "9,00 TL"
 }, {
-    "seller": "Gırtıllı",
-    "price": "40,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ"
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ",
+    "seller": "Zeugma Kitabevi / Sahaf",
+    "price": "9,60 TL"
 }, {
-    "seller": "Arda Fırat",
-    "price": "40,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ 1930'dan bugüne"
+    "book": "YEDİ DERSTE VİCDAN MUHASEBESİ",
+    "seller": "Sahaf Cumhur",
+    "price": "10,00 TL"
 }, {
-    "seller": "Belki Kitabevi / Sahaf",
-    "price": "43,75 TL",
-    "book": "DÜNYA KUPASI TARİHİ"
+    "book": "İki Şiirin Arasında",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "10,00 TL"
 }, {
-    "seller": "Ex libris",
-    "price": "55,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ 1930 DAN BUGÜNE (İMZALI)"
+    "book": "Virgül Aylık Kitap ve Eleştiri Dergisi Sayı: 35 Kasım 2000 (Hegel Felsefesine Giriş/Fikri Sabit Söyleşi/Yekta Kopan Söyleşi/Anadolu'da Büyük İsyan)",
+    "seller": "Hermes Sahaf",
+    "price": "10,00 TL"
 }, {
-    "seller": "Adalet Sahaf",
-    "price": "65,00 TL",
-    "book": "ÇİZGİLERLE DÜNYA KUPASI TARİHİ"
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Pagos Sahaf ve Kitabevi",
+    "price": "10,00 TL"
 }, {
-    "seller": "Ex libris",
-    "price": "75,00 TL",
-    "book": "DÜNYA KUPASI 98 REHBERİ / 32 TAKIM VE KİMLİK KARTLARI, KUPA TARİHİNDEN NOTLAR, TURNUVA FİKSTÜRÜ, STATLAR, GRUPLAR, YILDIZ OYUNCULAR, ANALİZLER ..."
+    "book": "Kediler Güzel Uyanır",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "10,00 TL"
 }, {
-    "seller": "Ex libris",
-    "price": "75,00 TL",
-    "book": "SÜPER FUTBOL - DÜNYA KUPASI TARİHİ / 1990 İTALYA, 1994 AMERİKA, 1990 DÜNYA ŞAMPİYONU FEDERAL ALMANYA, 1994 DÜNYA ŞAMPİYONU BREZİLYA ..."
+    "book": "Bir de Baktım Yoksun",
+    "seller": "İzmir Güler Sahaf",
+    "price": "10,00 TL"
 }, {
-    "seller": "Ex libris",
-    "price": "75,00 TL",
-    "book": "SÜPER FUTBOL - DÜNYA KUPASI TARİHİ / 1958 İSVİÇRE, 1962 ŞİLİ, 1966 İNGİLTERE, 1970 MEKSİKA, PELE'Sİ DE KAZANILIR, İNGİLTERE EVİNDE ASLAN ..."
+    "book": "İÇİMDE KİM VAR",
+    "seller": "İzmir Güler Sahaf",
+    "price": "10,00 TL"
 }, {
+    "book": "İki Şiirin Arasında",
+    "seller": "Duvar Kitabevi",
+    "price": "10,00 TL"
+}, {
+    "book": "BİRDE BAKTIM YOKSUN",
+    "seller": "Duvar Kitabevi",
+    "price": "10,00 TL"
+}, {
+    "book": "KARBON KOPYA",
+    "seller": "Sahaf Cumhur",
+    "price": "10,00 TL"
+}, {
+    "book": "Sıradan Bir Gün",
+    "seller": "Kenar Kitabevi / Sahaf",
+    "price": "10,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme",
+    "seller": "Mad Kitabevi",
+    "price": "10,00 TL"
+}, {
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ",
+    "seller": "Ada Yayınları",
+    "price": "10,00 TL"
+}, {
+    "book": "İki Şiirin Arasında",
     "seller": "Ümit Kitabevi",
-    "price": "108,90 TL\n98,01 TL",
-    "book": "DÜNYA KUPASI TARİHİ 1930'DAN 1976 /"
+    "price": "10,99 TL"
 }, {
+    "book": "CAN ALMANAK SANSÜRSÜZ KÜLTÜR SANAT YILLIĞI",
+    "seller": "Aydan Sahaf",
+    "price": "11,00 TL"
+}, {
+    "book": "Bir De Baktım Yoksun",
+    "seller": "Baykuş Kitabevi",
+    "price": "11,70 TL"
+}, {
+    "book": "CAN ALMANAK 2015 - SANSÜRSÜZ KÜLTÜR SANAT YILLIĞI - İLK DEFA YAYINLANAN FOTOĞRAF VE MAKALELERLE",
+    "seller": "Aydan Sahaf",
+    "price": "12,00 TL"
+}, {
+    "book": "SIRADAN BİR GÜN",
+    "seller": "Emektar Kitap",
+    "price": "12,00 TL"
+}, {
+    "book": "İÇİMDE KİM VAR",
+    "seller": "Kenar Kitabevi / Sahaf",
+    "price": "12,00 TL"
+}, {
+    "book": "BİR DE BAKTIM YOKSUN - 16. BASKI",
+    "seller": "Yabancı Kitabevi",
+    "price": "12,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Zorba Kitabevi",
+    "price": "12,00 TL"
+}, {
+    "book": "Yedi Derste Vicdan Muhasebesi",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "12,00 TL"
+}, {
+    "book": "KARA KEDİNİN GÖLGESİ",
+    "seller": "Belki Kitabevi / Sahaf",
+    "price": "12,50 TL"
+}, {
+    "book": "Bir de Baktım Yoksun",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "12,50 TL"
+}, {
+    "book": "SIRADAN BİR GÜN",
+    "seller": "Kirpi Sahaf",
+    "price": "13,00 TL"
+}, {
+    "book": "İpekli Mendil",
+    "seller": "Fikiradaş",
+    "price": "14,00 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME",
+    "seller": "Kirpi Sahaf",
+    "price": "14,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme",
+    "seller": "Zeugma Kitabevi / Sahaf",
+    "price": "14,40 TL"
+}, {
+    "book": "İki Şiirin Arasında (İmzalı)",
+    "seller": "Tarçın Kitap",
+    "price": "14,50 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME",
+    "seller": "Tutkum Sahaf",
+    "price": "14,90 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME",
+    "seller": "Tutkum Sahaf",
+    "price": "14,90 TL"
+}, {
+    "book": "Can Almanak 2015 - Sansürsüz Kültür Sanat Yıllığı",
+    "seller": "Sahaf Cumhur",
+    "price": "15,00 TL"
+}, {
+    "book": "İÇİMDE KİM VAR",
+    "seller": "Kedi Kitap",
+    "price": "15,00 TL"
+}, {
+    "book": "CAN ALMANAK KÜLTÜR SANAT YILLIĞI",
+    "seller": "Aydan Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Güzel Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "Sıradan Bir Gün",
+    "seller": "Renkli Kitap",
+    "price": "15,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR",
+    "seller": "Güzel Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "SIRADAN BİR GÜN",
+    "seller": "Tutkum Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "İpekli Mendil",
+    "seller": "Yabancı Kitabevi",
+    "price": "15,00 TL"
+}, {
+    "book": "Sarmaşık",
+    "seller": "Hermes Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "Resimli Türkçe Edebiyat Takvimi 2016",
+    "seller": "Hermes Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "İPEKLİ MENDİL Öykümüzde Nesneler, Karakterler, Mekanlar ve Daha Fazlası",
+    "seller": "Kenar Kitabevi / Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "Bir de Baktım Yoksun - İthaflı ve İmzalı",
+    "seller": "Anka Kitabevi / Sahaf",
+    "price": "15,00 TL"
+}, {
+    "book": "İki Şiirin Arasında",
+    "seller": "Mad Kitabevi",
+    "price": "15,00 TL"
+}, {
+    "book": "İPEKLİ MENDİL / ÖYKÜMÜZDE NESNELER, KARAKTERLER, MEKANLAR VE DAHA FAZLASI",
     "seller": "Tercüme Kitabevi / Sahaf",
-    "price": "130,00 TL",
-    "book": "DÜNYA KUPASI TARİHİ 1930 DAN BUGÜNE"
+    "price": "15,60 TL"
 }, {
+    "book": "Sıradan Bir Gün",
+    "seller": "Zorba Kitabevi",
+    "price": "16,00 TL"
+}, {
+    "book": "SAKIN ORAYA GİTME",
+    "seller": "Belki Kitabevi / Sahaf",
+    "price": "17,50 TL"
+}, {
+    "book": "İki şiirin Arasında",
+    "seller": "Baykuş Kitabevi",
+    "price": "18,00 TL"
+}, {
+    "book": "Yedi Derste Vicdan Muhasebesi (İmzalı)",
+    "seller": "Yabancı Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "Yedi Derste Vicdan Muhasebesi yazardan imzalı",
+    "seller": "Yabancı Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "Karbon Kopya",
+    "seller": "Yabancı Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "Fildişi Karası",
+    "seller": "Baykuş Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "İki Şiirin Arasında",
+    "seller": "Mad Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "İKİ ŞİİRİN ARASINDA",
+    "seller": "Mad Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Mad Kitabevi",
+    "price": "20,00 TL"
+}, {
+    "book": "Kediler Güzel Uyanır",
+    "seller": "Tarçın Kitap",
+    "price": "21,00 TL"
+}, {
+    "book": "Bana Kuşlar Söyledi",
+    "seller": "Tante Rosa Kitabevi",
+    "price": "21,00 TL"
+}, {
+    "book": "İÇİMDE KİM VAR",
+    "seller": "Belki Kitabevi / Sahaf",
+    "price": "21,25 TL"
+}, {
+    "book": "İpekli Mendil - Öykümüzde Nesneler, Karakterler, Mekanlar ve Daha Fazlası",
+    "seller": "Baykuş Kitabevi",
+    "price": "22,50 TL"
+}, {
+    "book": "Sakın Oraya Gitme *İMZALI VE İTHAFLI* (AYRAÇLI)",
+    "seller": "Adalet Sahaf",
+    "price": "23,00 TL"
+}, {
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ (imzalı)",
+    "seller": "Fersuden Sahaf",
+    "price": "23,75 TL"
+}, {
+    "book": "SIRADAN BİR GÜN",
+    "seller": "Sahaf Cumhur",
+    "price": "24,00 TL"
+}, {
+    "book": "BİRDE BAKTIM YOKSUN-(İMZALI VE İTHAFLI)",
+    "seller": "Güzel Sahaf",
+    "price": "25,00 TL"
+}, {
+    "book": "Aile Çay Bahçesi",
+    "seller": "Kedi Kitap",
+    "price": "25,00 TL"
+}, {
+    "book": "Kara Kedinin Gölgesi",
+    "seller": "Tarçın Kitap",
+    "price": "25,00 TL"
+}, {
+    "book": "KEDİLER GÜZEL UYANIR - İMZALI",
+    "seller": "Anka Kitabevi / Sahaf",
+    "price": "25,00 TL"
+}, {
+    "book": "Kediler Güzel Uyanır",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "26,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme ( 1. Baskı - İMZALI )",
+    "seller": "Tarçın Kitap",
+    "price": "26,90 TL"
+}, {
+    "book": "İki Şiirin Arasında",
+    "seller": "Yerdeniz Kitapçısı",
+    "price": "27,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "28,00 TL"
+}, {
+    "book": "Sakın Oraya Gitme",
+    "seller": "Yerdeniz Kitapçısı",
+    "price": "28,00 TL"
+}, {
+    "book": "Aşk Mutfağından Yalnızlık Tarifleri",
+    "seller": "Tarçın Kitap",
+    "price": "28,90 TL"
+}, {
+    "book": "AİLE ÇAY BAHÇESİ",
+    "seller": "Tarçın Kitap",
+    "price": "28,90 TL"
+}, {
+    "book": "Fildişi Karası",
+    "seller": "Tarçın Kitap",
+    "price": "28,90 TL"
+}, {
+    "book": "Karbon Kopya",
+    "seller": "Tarçın Kitap",
+    "price": "30,00 TL"
+}, {
+    "book": "Aile Çay Bahçesi",
+    "seller": "Değirmen Sahaf",
+    "price": "30,00 TL"
+}, {
+    "book": "Bana Kuşlar Söyledi",
+    "seller": "Değirmen Sahaf",
+    "price": "30,00 TL"
+}, {
+    "book": "Sıradan Bir Gün",
+    "seller": "Tarçın Kitap",
+    "price": "30,50 TL"
+}, {
+    "book": "Sarmaşık",
+    "seller": "Zorba Kitabevi",
+    "price": "32,00 TL"
+}, {
+    "book": "İpekli Mendil",
+    "seller": "Tarçın Kitap",
+    "price": "33,90 TL"
+}, {
+    "book": "İpekli Mendil",
+    "seller": "Yerdeniz Kitapçısı",
+    "price": "34,00 TL"
+}, {
+    "book": "Bir de Baktım Yoksun",
+    "seller": "Yeldeğirmeni Kitabevi",
+    "price": "34,00 TL"
+}, {
+    "book": "Sarmaşık",
+    "seller": "Değirmen Sahaf",
+    "price": "35,00 TL"
+}, {
+    "book": "İçimde Kim Var",
+    "seller": "Tarçın Kitap",
+    "price": "35,00 TL"
+}, {
+    "book": "Aile Çay Bahçesi (Yazarından İmzalı-İthaflı)",
+    "seller": "Akel Kitapevi",
+    "price": "35,00 TL"
+}, {
+    "book": "Yedi Derste Vicdan Muhasebesi",
+    "seller": "Tarçın Kitap",
+    "price": "35,90 TL"
+}, {
+    "book": "Sarmaşık * Çizimler: Levent Gönenç",
+    "seller": "Belki Kitabevi / Sahaf",
+    "price": "46,25 TL"
+}, {
+    "book": "AŞK MUTFAĞINDAN YALNIZLIK TARİFLERİ (2002 SAİT FAİK HİKAYE ARMAĞANI)",
     "seller": "Kibele Kitabevi",
-    "price": "225,00 TL",
-    "book": "Pullarla Dünya Kupası Tarihi"
+    "price": "59,50 TL"
 }]
