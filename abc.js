@@ -1,34 +1,25 @@
 const puppeteer = require("puppeteer-extra");
 
-// add stealth plugin and use defaults (all evasion techniques)
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 puppeteer.use(StealthPlugin());
-
-// puppeteer usage as normal
-puppeteer.launch({ headless: true }).then(async (browser) => {
-  console.log("Running tests..");
-  let url = "https://www.nadirkitap.com/kitapara_sonuc.php?kelime=";
-  let searchString = "dünya kupası tarihi";
-  async function getSize(url, searchString) {
-    const page = await browser.newPage();
-    await page.goto(
-      `${url}${searchString}`
-    );
-    let itemCount = await page.evaluate(() => {
+puppeteer.launch({ headless: false }).then(async (browser) => {
+  console.log("started...");
+  const searchString = "halit kıvanç";
+  const url = `https://www.nadirkitap.com/kitapara_sonuc.php?kelime=${searchString}`;
+  const page = await browser.newPage();
+  await page.goto(url, { waitUntil: "networkidle0" });
+  //await page.waitFor(1000);
+  let itemCount = await page.evaluate(() => {
     let item = document.querySelector(".aramatitlerow>p>b").innerText;
-        return item;
-    });
-      return itemCount;
-  }
-  const size =Math.ceil(await getSize(url, searchString)/25);
-  console.log("bekle");
+    return item;
+  });
+  const size = Math.ceil(itemCount / 25);
 
-  async function getList(url, searchString, pageSize) {
-    const page = await browser.newPage();
-    await page.goto(
-      `${url}${searchString}&siralama=fiyatartan&bks=69&page=${pageSize}`
-    );
-    let data = await page.evaluate(() => {
+  const page2 = await browser.newPage();
+  const sahafList = [];
+  for (let i = 1; i <= size; i++) {
+    await page2.goto(`${url}&siralama=fiyatartan&bks=69&page=${i}`);
+    let sahaf = await page2.evaluate(() => {
       let list = [
         "Sahaf Haziran",
         "Fersuden Sahaf",
@@ -164,16 +155,8 @@ puppeteer.launch({ headless: true }).then(async (browser) => {
       });
       return results;
     });
-
-    console.log(data);
-    await browser.close();
+    sahaf.forEach((s) => sahafList.push(s));
   }
- 
-  for (let i = 1; i <= 3; i++) {
-      console.log("size : ",size);
-     getList(url, searchString, i);
-     console.log("bu ne");
-  }  
-
-  console.log("bitti");
+  console.log(sahafList);
+  await browser.close();
 });
